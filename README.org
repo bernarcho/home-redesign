@@ -17,20 +17,20 @@
    For each node we have a design decision for the chose option, as well as how the decision comes.
 
 ** Terms
-   sub-module
-   nodes - components of sub-module
-   design option - options for the node
-   design question - a no-idea node.
-   design desicion - chosen option.
-   reason - why to chose the option.
+   - sub-module
+   - nodes - components of sub-module
+   - design option - options for the node
+   - design question - a no-idea node.
+   - design desicion - chosen option.
+   - reason - why to chose the option.
 
-## below is an example of a design node, say, under living_room.org.
-** home theatre  ## this is design node.
-*** placement of bookshelf  ## this is design desicion.
-   [ ] with the TV cabinet - will impact screen installment ## this is design option
+below is an example of a design node, say, under living_room.org.
+** home theatre  /this is design node/.
+*** placement of bookshelf  /this is design desicion/.
+   [ ] with the TV cabinet - will impact screen installment /this is design option/
        - pros:
        - cons:
-   [ ] somewhere else, but where? ## this is design question
+   [ ] somewhere else, but where? /this is design question/
 
 *** screen installment
    [ ] besides the bookshelf  
