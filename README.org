@@ -1,0 +1,41 @@
+* home-redesign
+** General puopose
+# To record the redesign process of the apartment in Sakura district.
+
+** what is it
+# Once finished, whole project can be taken as the design product.
+# And a single file with the extended name of .org stands for part of the appartment(module);
+# Generally, a module can be identified as a space(e.g. living room, kitchen...),
+# but also it could be abstract, like a function module.
+
+** The design flow
+# The design flow for each module can begin with some wanderings, which are un-organised ideas.
+# Then comes the design nodes, which might be an area, a function place,etc
+# e.g. for design nodes: home_threatre in the living room.
+# Then we have design nodes or components, afficiated with the nodes are options, sub-options,
+# questions,cons and pros about the options and suboptions,
+# For each node we have a design decision for the chose option, as well as how the decision comes.
+
+** Terms
+# sub-module
+# nodes - components of sub-module
+# design option - options for the node
+# design question - a no-idea node.
+# design desicion - chosen option
+# reason - why to chose the option  
+
+# below is an example of a design node, say, under living_room.org.
+** home theatre  ## this is design node.
+*** placement of bookshelf  ## this is design desicion.
+   [ ] with the TV cabinet - will impact screen installment ## this is design option
+       - pros:
+       - cons:
+   [ ] somewhere else, but where? ## this is design question
+
+*** screen installment
+   [ ] besides the bookshelf  
+       - pros:
+       - cons
+   [ ] in front of the bookshelf
+       - pros:
+       - cons
